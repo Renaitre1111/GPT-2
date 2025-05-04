@@ -1,1 +1,2 @@
-# micrograd
+# GPT-2
+
